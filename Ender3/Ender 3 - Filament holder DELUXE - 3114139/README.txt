@@ -1,0 +1,4 @@
+Ender 3 - Filament holder DELUXE by Skrutt84 on Thingiverse: https://www.thingiverse.com/thing:3114139
+
+Summary:
+Filament holder with bearings that uses the original bracket on Ender 3.You will need a 16 cm long M8 threadbar.2 pcs 608Z bearings.2 pcs M8 nylon lock nuts.And 2 M8 washers.For the "Optional_thread_guide.stl" you will need some glue.I use Loctite Super Glue Precision.Assembly the whole thing except for the thread guide. As the last step glue it in place. Make sure to leave some room between the thread guide and the filament holder.Put a pice of paper or somethong between the parts when you glue it in place.Now there is also a short version off the filament holder that is 30 mm shorter than the original.Please post your make!Over 100 000 downloads!But very few donations :(If you like what I do, please donate: https://www.paypal.com/paypalme/skrutt84And maybe I will share some more things.

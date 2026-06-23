@@ -1,0 +1,4 @@
+foldable notebook stand one piece print v.2.0 by nicuz on Thingiverse: https://www.thingiverse.com/thing:2345997
+
+Summary:
+Here is version 2.0 of this foldable stand: https://www.thingiverse.com/thing:2332554differences from the previous version:the stand is overall thinner (only 45 mm two stands joined together)two stands can be locked together with a simple sliding mechanism. This way, you can put it in your laptop bag in one piece.The stand is still printable in one piece, with no support, no raft and no brim.The stand is foldable and can be set to four positions, 15°, 25°, 35° and 45°.Happy printing!please, take a look at my other things here: https://www.thingiverse.com/nicuz/designs
